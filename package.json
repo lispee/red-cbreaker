@@ -1,0 +1,12 @@
+{
+    "name": "red-cbreaker",
+    "description": "jssoft curcuit breaker project",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_cbreaker.json",
+            "credentialsFile": "flows_cbreaker_cred.json"
+        }
+    }
+}
